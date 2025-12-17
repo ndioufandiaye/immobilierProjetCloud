@@ -1,0 +1,2 @@
+scrapy
+# Ajoutez ici vos autres dépendances (ex: pymongo, pandas, etc.)
