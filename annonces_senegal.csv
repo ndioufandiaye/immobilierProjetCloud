@@ -1,7 +1,14 @@
+url_annonce,type_de_bien,localisation,prix,chambres,salles_de_bains
+https://immobilier-au-senegal.com/bien/terrain-de-300-metres-carres-a-vendre-a-malicounda-senegal-2/,Terrain de 300 mètres carrés à vendre à Malicounda Sénégal,,4.000.000Fr,N/A,N/A
+https://immobilier-au-senegal.com/bien/terrain-de-1000-metres-carres-a-vendre-a-nguerigne-senegal-4/,Terrain de 1000 mètres carrés à vendre à Nguérigne Sénégal,,35.000.000Fr,N/A,N/A
+https://immobilier-au-senegal.com/bien/terrain-de-300-metres-carres-a-vendre-a-malicounda-2/,Terrain de 300 mètres carrés à vendre à Malicounda,,4.000.000Fr,N/A,N/A
+https://immobilier-au-senegal.com/bien/terrain-de-2000-metres-carres-a-vendre-a-nguerigne-senegal-2/,Terrain de 2000 mètres carrés à vendre à Nguérigne Sénégal,,70.000.000Fr,N/A,N/A
+https://immobilier-au-senegal.com/bien/terrain-de-300-metres-carres-a-vendre-a-malicounda-senegal/,Terrain de 300 mètres carrés à vendre à Malicounda Sénégal,,4.000.000Fr,N/A,N/A
+https://immobilier-au-senegal.com/bien/terrain-de-600-metres-carres-a-vendre-a-saly-senegal/,Terrain de 600 mètres carrés à vendre à Saly Sénégal,,50.000.000Fr,N/A,N/A
 chambres,localisation,prix,salles_de_bains,type_de_bien,url_annonce
+N/A,,4.000.000Fr,N/A,Terrain de 300 mètres carrés à vendre à Malicounda Sénégal,https://immobilier-au-senegal.com/bien/terrain-de-300-metres-carres-a-vendre-a-malicounda-senegal-2/
 N/A,,35.000.000Fr,N/A,Terrain de 1000 mètres carrés à vendre à Nguérigne Sénégal,https://immobilier-au-senegal.com/bien/terrain-de-1000-metres-carres-a-vendre-a-nguerigne-senegal-4/
 N/A,,4.000.000Fr,N/A,Terrain de 300 mètres carrés à vendre à Malicounda,https://immobilier-au-senegal.com/bien/terrain-de-300-metres-carres-a-vendre-a-malicounda-2/
 N/A,,70.000.000Fr,N/A,Terrain de 2000 mètres carrés à vendre à Nguérigne Sénégal,https://immobilier-au-senegal.com/bien/terrain-de-2000-metres-carres-a-vendre-a-nguerigne-senegal-2/
 N/A,,4.000.000Fr,N/A,Terrain de 300 mètres carrés à vendre à Malicounda Sénégal,https://immobilier-au-senegal.com/bien/terrain-de-300-metres-carres-a-vendre-a-malicounda-senegal/
 N/A,,50.000.000Fr,N/A,Terrain de 600 mètres carrés à vendre à Saly Sénégal,https://immobilier-au-senegal.com/bien/terrain-de-600-metres-carres-a-vendre-a-saly-senegal/
-N/A,,25.000.000Fr,N/A,Maison à vendre à Saly Sénégal,https://immobilier-au-senegal.com/bien/maison-a-vendre-a-saly-senegal-3/
