@@ -1,4 +1,5 @@
 import scrapy
+import boto3
 # Assurez-vous d'importer le nouvel Item
 from immobilierAuSenegal.items import ImmobilierausenegalItem
 
@@ -56,23 +57,3 @@ class ImmobilierSpider(scrapy.Spider):
             
             yield item
             
-##import boto3
-
-import boto3
-def upload_file_s3(file_path, bucket_name, object_name=None):
-    if object_name is None:
-        object_name = file_path
-
-    s3 = boto3.client("s3")
-    s3.upload_file(file_path, bucket_name, object_name)
-
-
-# Exemple d'utilisation
-## file_path = "data/file.json"
-## file_name = "file.json"
-
-file_path = "immobilierAuSenegal/annonces_senegal.csv"
-file_name = "annonces_senegal.csv"
-
-MY_BUCKET_NAME = "m2dsia-ndioufa-ndiaye"
-upload_file_s3(file_path, MY_BUCKET_NAME, file_name)

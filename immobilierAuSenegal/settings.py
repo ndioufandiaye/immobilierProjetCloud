@@ -1,3 +1,4 @@
+
 # Scrapy settings for immobilierAuSenegal project
 #
 # For simplicity, this file contains only settings considered important or
@@ -13,6 +14,10 @@ SPIDER_MODULES = ["immobilierAuSenegal.spiders"]
 NEWSPIDER_MODULE = "immobilierAuSenegal.spiders"
 
 ADDONS = {}
+
+ITEM_PIPELINES = {
+    "immobilierAuSenegal.pipelines.S3UploadPipeline": 300,
+}
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
